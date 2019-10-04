@@ -5,7 +5,7 @@ Example project showing off how post processing can be applied to mobile AR.
 Depth of Field based Blur for objects
 ![gif](DoFBlur.gif)
 
-Motion blur
+Motion blur  
 ![gif](MotionBlur.gif)
 
 -------------------
