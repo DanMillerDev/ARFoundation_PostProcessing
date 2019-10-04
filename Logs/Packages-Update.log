@@ -1,0 +1,8 @@
+
+=== Mon Sep 30 17:16:33 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
