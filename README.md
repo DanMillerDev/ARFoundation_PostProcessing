@@ -3,10 +3,10 @@
 Example project showing off how post processing can be applied to mobile AR.
 
 Depth of Field based Blur for objects
-![gif](https://imgur.com/7XfaDYa.gif)
+![gif](https://i.imgur.com/7XfaDYa.gif)
 
 Motion blur
-![gif](https://imgur.com/To1LeLY.gif)
+![gif](https://i.imgur.com/To1LeLY.gif)
 
 -------------------
 **Current Unity version: 2019.3.0b1**
